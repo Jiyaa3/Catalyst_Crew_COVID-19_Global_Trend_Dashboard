@@ -1,5 +1,5 @@
 ## Catalyst_Crew_COVID-19_Global_Trend_Dashboard
-
+---
 **Group Members**
 
 Jiya Patel - KU2407U412
