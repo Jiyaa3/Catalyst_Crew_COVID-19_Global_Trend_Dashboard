@@ -94,19 +94,19 @@ vaccinations_trend_over_time.png
 
 Case Trends:
 
-The total number of COVID-19 cases varies significantly by country, highlighting differences in outbreak severity.
-Over time, case numbers fluctuate, likely reflecting surges, seasonal effects, or interventions like lockdowns.
-
+The total number of COVID-19 cases ranges between countries, reflecting heterogeneity in outbreak severity.
+Fluctuations in case numbers occur over time, probably due to surges, seasonal effects, or interventions like lockdowns.
 
 Vaccination Trends:
 
-Vaccination counts show a progressive increase over time but vary in rate and total by country.
-Some countries may demonstrate quicker and more widespread vaccination campaigns than others.
-
+Vaccination counts have gone on to show a progressive increase over time but vary in rate and total by country. Some countries will have wider and quicker vaccination programs than others.
 
 Key Takeaways:
 
-The visualizations highlight disparities in COVID-19 response and the ongoing impact of the pandemic on public health.
+These visualizations depict unequal responses to COVID-19 and how the pandemic continues to affect public health.
+
+
+---
 
 
 **Challenges Faced**
