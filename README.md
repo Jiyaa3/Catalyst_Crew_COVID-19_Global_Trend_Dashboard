@@ -109,3 +109,10 @@ Key Takeaways:
 The visualizations highlight disparities in COVID-19 response and the ongoing impact of the pandemic on public health.
 
 
+**Challenges Faced**
+
+* Misrepresentation: Avoiding the spread of misinformation due to weak analysis or presentation of data.
+* Dynamic changes in policies, testing, and vaccine introduction lead to the need for adaptive analysis methods.
+* Accessibility: The repository should be accessible to both technical and non-technical users.
+
+
